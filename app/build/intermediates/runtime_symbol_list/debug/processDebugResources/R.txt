@@ -62,6 +62,7 @@ int color common_google_signin_btn_text_light_disabled 0x7f02000f
 int color common_google_signin_btn_text_light_focused 0x7f020010
 int color common_google_signin_btn_text_light_pressed 0x7f020011
 int color common_google_signin_btn_tint 0x7f020012
+int color ic_banner_background 0x7f020017
 int color notification_action_color_filter 0x7f020013
 int color notification_icon_bg_color 0x7f020014
 int color vector_tint_color 0x7f020015
@@ -111,12 +112,15 @@ int drawable common_google_signin_btn_text_light_normal 0x7f040011
 int drawable common_google_signin_btn_text_light_normal_background 0x7f040012
 int drawable googleg_disabled_color_18 0x7f040013
 int drawable googleg_standard_color_18 0x7f040014
+int drawable ic_banner_foreground 0x7f04002f
 int drawable ic_call_answer 0x7f040015
 int drawable ic_call_answer_low 0x7f040016
 int drawable ic_call_answer_video 0x7f040017
 int drawable ic_call_answer_video_low 0x7f040018
 int drawable ic_call_decline 0x7f040019
 int drawable ic_call_decline_low 0x7f04001a
+int drawable ic_launcher_background 0x7f04002c
+int drawable ic_launcher_foreground 0x7f04002d
 int drawable ic_other_sign_in 0x7f04001b
 int drawable ic_passkey 0x7f04001c
 int drawable ic_password 0x7f04001d
@@ -250,7 +254,10 @@ int layout notification_template_custom_big 0x7f070007
 int layout notification_template_icon_group 0x7f070008
 int layout notification_template_part_chronometer 0x7f070009
 int layout notification_template_part_time 0x7f07000a
+int mipmap ic_banner 0x7f080003
 int mipmap ic_launcher 0x7f080000
+int mipmap ic_launcher_foreground 0x7f080002
+int mipmap ic_launcher_round 0x7f080001
 int raw firebase_common_keep 0x7f090000
 int string android_credentials_TYPE_PASSWORD_CREDENTIAL 0x7f0a0000
 int string androidx_credentials_TYPE_PUBLIC_KEY_CREDENTIAL 0x7f0a0001

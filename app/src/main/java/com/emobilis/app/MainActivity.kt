@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
             EmobilisTheme {
                 val navController = rememberNavController()
 
-                NavHost(navController = navController, startDestination = "technician_portal") {
+                NavHost(navController = navController, startDestination = "student_portal") {
 
                     composable("login") {
                         LoginScreen(

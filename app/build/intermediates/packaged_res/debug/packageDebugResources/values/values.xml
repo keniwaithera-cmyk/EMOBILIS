@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="ic_banner_background">#FFFFFF</color>
     <string name="app_name">Emobilis</string>
     <string name="firebase_database_url" translatable="false">https://emobilis-77005-default-rtdb.firebaseio.com</string>
     <string name="gcm_defaultSenderId" translatable="false">95100541546</string>
