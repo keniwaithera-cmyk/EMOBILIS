@@ -153,11 +153,12 @@
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
-    <string name="gcm_defaultSenderId" translatable="false">YOUR_PROJECT_NUMBER</string>
-    <string name="google_api_key" translatable="false">YOUR_API_KEY</string>
-    <string name="google_app_id" translatable="false">1:YOUR_PROJECT_NUMBER:android:YOUR_APP_ID</string>
-    <string name="google_crash_reporting_api_key" translatable="false">YOUR_API_KEY</string>
-    <string name="google_storage_bucket" translatable="false">YOUR_PROJECT_ID.appspot.com</string>
+    <string name="firebase_database_url" translatable="false">https://emobilis-77005-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">95100541546</string>
+    <string name="google_api_key" translatable="false">AIzaSyApiJAD31v4JB9SM2nhjMbB40D2J3Pz1Y8</string>
+    <string name="google_app_id" translatable="false">1:95100541546:android:f8e4ffd1e06f75eeae4813</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyApiJAD31v4JB9SM2nhjMbB40D2J3Pz1Y8</string>
+    <string name="google_storage_bucket" translatable="false">emobilis-77005.firebasestorage.app</string>
     <string name="in_progress">In progress</string>
     <string name="indeterminate">Partially checked</string>
     <string name="m3c_bottom_sheet_collapse_description">Collapse bottom sheet</string>
@@ -223,7 +224,7 @@
     <string name="m3c_tooltip_pane_description">Tooltip</string>
     <string name="navigation_menu">"Navigation menu"</string>
     <string name="not_selected">Not selected</string>
-    <string name="project_id" translatable="false">YOUR_PROJECT_ID</string>
+    <string name="project_id" translatable="false">emobilis-77005</string>
     <string name="range_end">"Range end"</string>
     <string name="range_start">"Range start"</string>
     <string name="selected">Selected</string>
